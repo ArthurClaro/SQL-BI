@@ -33,11 +33,6 @@ https://docs.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?vi
 
 
 
-
-
-
-
-
 -- 4. Definindo as tabelas e colunas a serem usadas no projeto
 
 -- TABELAS
